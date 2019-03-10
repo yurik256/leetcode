@@ -1,4 +1,4 @@
-namespace Solutions.Math
+namespace Solutions.MathProblems
 {
     // https://leetcode.com/problems/count-primes/
     // https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
